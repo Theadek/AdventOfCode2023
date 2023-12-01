@@ -9,7 +9,7 @@ namespace Advent2023_05 {
 
 void Solve2023_05() {
 
-	std::fstream file("Input / Input_05.txt");
+	std::fstream file("Input/Input_05.txt");
 
 	file.close();
 
