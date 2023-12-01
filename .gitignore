@@ -1,0 +1,6 @@
+.vs
+*.sln
+AdventOfCode2023/Debug/*
+Debug/*
+*vcxproj*
+
