@@ -61,7 +61,7 @@ void Solve2023_01() {
 		std::string s;
 		file >> s;
 
-		for (int i = 0; i < s.length(); i++) {
+		for (size_t i = 0; i < s.length(); i++) {
 			if (s[i] >= '0' && s[i] <= '9') {
 				if (decimal == -1) {
 					decimal = s[i] - '0';
@@ -89,7 +89,7 @@ void Solve2023_01() {
 		std::string s;
 		file >> s;
 
-		for (int i = 0; i < s.length(); i++) {
+		for (size_t i = 0; i < s.length(); i++) {
 			if (s[i] >= '0' && s[i] <= '9') {
 				if (decimal == -1) {
 					decimal = s[i] - '0';
