@@ -5,7 +5,7 @@
 
 int main() {
 
-	Solve2023_11();
+	Solve2023_12();
 
 
 	return 0;

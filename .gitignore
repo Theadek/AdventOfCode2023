@@ -2,5 +2,8 @@
 *.sln
 AdventOfCode2023/Debug/*
 Debug/*
+AdventOfCode2023/Release/*
+AdventOfCode2023/x64/*
+x64/*
 *vcxproj*
 
